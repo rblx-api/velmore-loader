@@ -4,7 +4,7 @@ print("[Velmore Protect] Loading...")
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 
-local API = "https://students-colleague-television-italic.trycloudflare.com/api/loader"
+local API = "https://day-bind-gathered-sim.trycloudflare.com/api/loader"
 
 local key = rawget(_G, "script_key")
     or (getgenv and rawget(getgenv(), "script_key"))
